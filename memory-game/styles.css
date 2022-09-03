@@ -1,0 +1,20 @@
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+
+#grid {
+    width: 1000px;
+    height: 305px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+#grid img {
+    width: 150px;
+    padding: 5px;
+
+}
